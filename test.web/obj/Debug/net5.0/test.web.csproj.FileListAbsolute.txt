@@ -171,3 +171,4 @@
 /home/perdomix/Документы/test_razor/test.web/obj/Debug/net5.0/Razor/Pages/Movies/Details.cshtml.g.cs
 /home/perdomix/Документы/test_razor/test.web/obj/Debug/net5.0/Razor/Pages/Movies/Edit.cshtml.g.cs
 /home/perdomix/Документы/test_razor/test.web/obj/Debug/net5.0/Razor/Pages/Movies/Index.cshtml.g.cs
+/home/perdomix/Документы/test_razor/test.web/bin/Debug/net5.0/RabbitMQ.Client.dll
